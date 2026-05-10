@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+*.session
+*.session-journal
+verses.db
+radio_status.json
+radio_cmd.txt
+.env
+music/*.mp3
+music/*.webm
+google_key.json
